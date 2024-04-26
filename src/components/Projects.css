@@ -1,0 +1,33 @@
+/* src/components/Projects.css */
+
+.projects-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #d1ecf1; /* Cor de fundo azul claro */
+}
+
+.project-item {
+    background-color: #fcf4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project-item h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.project-item p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.project-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.project-item a:hover {
+    text-decoration: underline;
+}
